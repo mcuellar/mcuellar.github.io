@@ -1,8 +1,7 @@
 # About
-
 Welcome to my personal website! I'm **Gaston (Marcelo) Cuellar**, a passionate Cloud Architect, Engineer, and Developer dedicated to solving complex problems with innovative solutions.
 
-# Resume
+## Resume
 Check out [**my resume**](https://mcuellar.github.io/resume/) for more details on my professional history.
 
 ## Who I Am
