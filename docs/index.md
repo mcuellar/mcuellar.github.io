@@ -1,6 +1,6 @@
 # About
 
-Welcome to my personal website! I'm **Gaston M Cuellar**, a passionate Cloud Architect, Engineer, and Developer dedicated to solving complex problems with innovative solutions.
+Welcome to my personal website! I'm **Gaston (Marcelo) Cuellar**, a passionate Cloud Architect, Engineer, and Developer dedicated to solving complex problems with innovative solutions.
 
 ## Who I Am
 
@@ -20,7 +20,7 @@ I'm always interested in connecting with fellow professionals, discussing techno
 <div class="social-cards" markdown>
 
 [:fontawesome-brands-github: **GitHub**](https://github.com/mcuellar){ .md-button .md-button--primary }
-[:fontawesome-brands-linkedin: **LinkedIn**](https://www.linkedin.com/in/gaston-cuellar){ .md-button .md-button--primary }
+[:fontawesome-brands-linkedin: **LinkedIn**](https://www.linkedin.com/in/marcelo-cuellar-57b0a046/){ .md-button .md-button--primary }
 
 </div>
 

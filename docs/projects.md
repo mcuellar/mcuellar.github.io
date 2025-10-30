@@ -21,8 +21,6 @@ A comprehensive infrastructure-as-code solution for managing resources across mu
 ### Kubernetes Platform Engineering
 **Technologies**: Kubernetes, Helm, Prometheus, Grafana
 
-Built a production-ready Kubernetes platform with:
-
 - Custom Helm charts for application deployments
 - Comprehensive monitoring and alerting setup
 - GitOps workflow implementation
@@ -53,12 +51,6 @@ Created a suite of automation tools for DevOps workflows:
 - Deployment automation utilities
 - Monitoring and alerting integrations
 - Documentation generators
-
----
-
-## Open Source Contributions
-
-I actively contribute to open-source projects and believe in giving back to the community. You can find my contributions on [GitHub](https://github.com/mcuellar).
 
 ---
 

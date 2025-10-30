@@ -1,4 +1,4 @@
-site_name: Gaston M Cuellar | Cloud Architect/Engineer/Developer | Problem Solver
+site_name: Gaston M Cuellar | Innovating at the Intersection of Cloud, AI & Automation
 site_url: https://mcuellar.github.io/
 site_author: Gaston Marcelo Cuellar
 
@@ -8,7 +8,7 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
+      primary: grey
       accent: indigo
       toggle:
         icon: material/brightness-7
@@ -16,7 +16,7 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
+      primary: grey
       accent: indigo
       toggle:
         icon: material/brightness-4
