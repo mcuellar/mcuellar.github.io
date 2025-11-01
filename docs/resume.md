@@ -31,7 +31,7 @@ Hands-on with AWS services, containerization, IaC (Terraform), CI/CD, security/c
 
 ## Professional Experience
 
-### VP, DevOps Engineering Manager — Citizens Bank  
+### VP, DevOps Engineering — Citizens Bank  
 Johnston, RI | 2019 – 2025
 
 Led enterprise cloud adoption and large-scale application migration programs across the bank, combining technical leadership, architecture governance, and hands-on delivery.
